@@ -13,11 +13,12 @@ I have experience working with these languages and have used them as well as oth
 ## Certifications:
 
 JavaScript Algorithms and Data Structures, freeCodeCamp.org
-Responsive Web DesignResponsive Web Design, freeCodeCamp.org
+
+Responsive Web Design, freeCodeCamp.org
 
 ## Experience:
 
-Web developer| Software Engineer (Freelance)
+Web developer | Software Engineer (Freelance)
 
 
 I am interested in internship, contract, full time and freelance software engineering/front end developer jobs.
