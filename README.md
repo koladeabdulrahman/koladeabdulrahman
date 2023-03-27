@@ -16,9 +16,9 @@ JavaScript Algorithms and Data Structures, freeCodeCamp.org
 
 Responsive Web Design, freeCodeCamp.org
 
-## Experience:
+## Experience
 
-Web developer | Software Engineer (Freelance)
+Frontend Developer (Freelance)
 
 
 I am interested in internship, contract, full time and freelance software engineering/front end developer jobs.
