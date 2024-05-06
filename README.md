@@ -6,9 +6,7 @@
 
 ## Skills/ Programming languages: 
 
-/ JavaScript / HTML / CSS/ WORDPRESS / Bootstrap / SASS
-
-I have experience working with these languages and have used them as well as other design tools and content management systems alongside a team of other software engineers and designers for freelance and other related projects. I take pride in helping clients achieve their goals through great service. 
+/ HTML / CSS/ JavaScript / React / Bootstrap / SASS / Tailwind / WORDPRESS / 
 
 ## Certifications:
 
