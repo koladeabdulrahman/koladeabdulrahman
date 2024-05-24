@@ -1,4 +1,5 @@
 # Hi there 👋, My name is Kolade
+<img src="https://github.com/koladeabdulrahman/koladeabdulrahman/blob/master/images/gitBanner.gif" alt="Banner"></img>
 
 ## I am a Front End Web Developer
  I like to build professional, beautiful and responsive websites. 
